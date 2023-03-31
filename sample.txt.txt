@@ -1,1 +1,5 @@
-learing git
+learing git.
+
+git init
+git add
+git commit
